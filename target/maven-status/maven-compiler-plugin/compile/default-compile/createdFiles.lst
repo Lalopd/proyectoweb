@@ -1,0 +1,5 @@
+heroku\App.class
+com\mysql\model\Alumno.class
+com\servlet\controlador\NewServlet.class
+com\servlet\DB\ConexionDB.class
+Servlets\Usuarios.class
